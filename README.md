@@ -1,16 +1,21 @@
-## Hi there 👋
+Привет, я Сергей 👋
 
-<!--
-**SergeyGro/SergeyGro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий frontend-разработчик. Работаю с React и Vue, изучаю TypeScript, в поиске первой позиции в разработке.
 
-Here are some ideas to get you started:
+Начал с вёрстки, сейчас делаю полноценные SPA — с роутингом, REST API и адаптивной вёрсткой.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Навыки:** HTML5, CSS3, JavaScript (ES6+), React, Git/GitHub, Figma, REST API, БЭМ, адаптивная и семантическая вёрстка
+
+**Проекты:**
+
+• [life-organizer-react](https://github.com/SergeyGro/life-organizer-react) — трекер задач и привычек на React
+
+• [my-site](https://sergeygro.github.io/my-site) — мой сайт-визитка на React
+
+• [blog-app](https://github.com/SergeyGro/blog-app) — блог с CRUD и REST API (JSON Server)
+
+• [life-organizer](https://github.com/SergeyGro/life-organizer) — версия трекера на чистом JS
+
+• [simple-landing](https://sergeygro.github.io/simple-landing) — адаптивный лендинг по макету Figma
+
+**Контакты:** [Telegram](https://t.me/Crassys) · [sirgroshev@yandex.ru](mailto:sirgroshev@yandex.ru)
